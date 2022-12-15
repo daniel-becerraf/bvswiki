@@ -30,12 +30,13 @@ strong{
   
 }
 
+#document-title h1 {
+    background-color: none;
+
 h1{
   font-weight: bold;
   background: none;
   transition: 500ms;
-  
-  
   
 }
 
