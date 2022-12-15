@@ -16,25 +16,10 @@ strong{
   font-size: 2rem;
 }
 
-#main{
-    background-color: #e8dbc5;
-    margin: 4rem 2rem;
-    padding: 2rem;
-    border-radius: 2rem;
-
-}
 
 .main{
     background-color: #e8dbc5;
-    margin: 4rem 2rem;
-    padding: 2rem;
-    border-radius: 2rem;
+    padding: 2rem 5rem 2rem 7rem ;
+    border-radius: 2.5rem;
 
-}
-
-#xwikicontent{ 
-    background-color: red;
-    margin: 4rem 2rem;
-    padding: 2rem;
-    border-radius: 2rem;
 }
