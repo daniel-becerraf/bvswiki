@@ -25,6 +25,22 @@ strong{
 }
 
 #xwikicontent{
-  padding: 10rem;
+  padding: 2.5rem 5rem 2.5rem 7rem;
   
+}
+
+h1{
+  font-weight: bold;
+   background: none;
+  
+  
+}
+
+h1:hover{
+    font-size: 3.6rem;
+    text-transform: uppercase;
+    background: url(https://drive.google.com/file/d/1KXSvci2-TmO7chu6cXEaMM8OtjCHN1P0/view?usp=sharing) 0 0 / cover no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
 }
