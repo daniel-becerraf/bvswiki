@@ -55,7 +55,11 @@ h1{
 }
 
 #xdocPrimaryOwner a{
-    color: #1e2ede;
-    font-size: 1.3rem;
+    color: #c0eaff;
+    font-size: 1.4rem;
 }
 
+#xdocPrimaryOwner b{
+    color: #e8dbc5;
+    font-size: 1.2rem;
+}
