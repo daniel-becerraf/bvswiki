@@ -24,3 +24,10 @@ strong{
 
 
 }
+
+#xwikicontent{ 
+    background-color: red;
+    margin: 4rem 2rem;
+    padding: 2rem;
+    border-radius: 2rem;
+}
