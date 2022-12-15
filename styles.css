@@ -41,6 +41,7 @@ h1{
 }
 
 h1:hover{
+    transition: 500ms;
     font-size: 4rem;
     text-transform: uppercase;
     background: url(https://goindons.sirv.com/Images/Gradient-downscaled.jpg) 0 0 / cover no-repeat;
