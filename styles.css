@@ -48,3 +48,14 @@ h1{
   
 }
 
+#xdocPrimaryOwner {
+    color: #ee6c4d;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#xdocPrimaryOwner a{
+    color: #1e2ede;
+    font-size: 1.3rem;
+}
+
