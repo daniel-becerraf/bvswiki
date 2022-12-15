@@ -21,6 +21,7 @@ strong{
     background-color: #e8dbc5;
     padding: 2rem 5rem 2rem 7rem ;
     border-radius: 2.5rem;
+  margin: 2.5rem auto;
 
 }
 
@@ -39,9 +40,10 @@ h1{
 }
 
 h1:hover{
-    font-size: 3.6rem;
+    font-size: 4rem;
     text-transform: uppercase;
     background: url(https://drive.google.com/file/d/1KXSvci2-TmO7chu6cXEaMM8OtjCHN1P0/view?usp=sharing) 0 0 / cover no-repeat;
+  color: #fff
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
