@@ -31,12 +31,11 @@ strong{
 }
 
 #document-title h1 {
-    background-color: none;
+    background: none;
 }
 
 h1{
   font-weight: bold;
-  background: none;
   transition: 500ms;
   
 }
@@ -45,7 +44,7 @@ h1:hover{
     font-size: 4rem;
     text-transform: uppercase;
     background: url(https://goindons.sirv.com/Images/Gradient-downscaled.jpg) 0 0 / cover no-repeat;
-  color: #fff
+    color: #fff;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
