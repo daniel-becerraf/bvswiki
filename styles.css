@@ -65,14 +65,17 @@ h1{
 }
 
 #body h2 {
-    border-bottom: none;
-    font-size: 28px;
-    padding-bottom: 3px;
+    font-size: 3rem;
+    padding-bottom: 4px;
   
 }
 
 #body h3 {
-    border-bottom: none;
-    font-size: 23px;
-    padding-bottom: 3px;
+    font-size: 2.3rem;
+    padding-bottom: 4px;
+}
+
+li{
+  margin-bottom: 0.5rem;
+  
 }
