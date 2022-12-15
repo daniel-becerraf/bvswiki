@@ -31,7 +31,9 @@ strong{
 
 h1{
   font-weight: bold;
-   background: none;
+  background: none;
+  transition: 500ms;
+  
   
   
 }
