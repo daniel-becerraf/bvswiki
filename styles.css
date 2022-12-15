@@ -63,3 +63,13 @@ h1{
     color: #ee6c4d;
     font-size: 1.2rem;
 }
+
+#body h2 {
+    font-size: 28px;
+    padding-bottom: 3px;
+}
+
+#body h3 {
+    font-size: 23px;
+    padding-bottom: 3px;
+}
