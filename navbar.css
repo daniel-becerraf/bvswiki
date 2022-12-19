@@ -24,7 +24,6 @@ nav, .navbar{
     color: #333;
     font-weight: 500;
     background: linear-gradient(45deg, #ee6c4d88, #1e2ede88 98%);
-      
   
 }
 
@@ -33,4 +32,8 @@ li{
   margin-bottom: none;
   border-radius: 1rem;
  
+}
+
+.navbar a{
+    font-size: 1,4rem;
 }
