@@ -16,8 +16,7 @@ nav, .navbar{
 
 }
 
-li, .dropdown:hover{
-    background-image: url(https://goindons.sirv.com/Images/Gradient-downscaled.jpg);
+.navbar li:hover{
     font-weight: 500;
     background: linear-gradient(45deg, #ee6c4d, #1e2ede 98%);
     border-radius: 0,5rem;
