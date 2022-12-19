@@ -22,3 +22,8 @@ nav, .navbar{
     color: #333;
 
 }
+
+
+li{
+  margin-bottom: none;
+}
