@@ -11,8 +11,14 @@ html {
 
 nav{
     background-image: url(https://goindons.sirv.com/Images/Gradient-downscaled.jpg);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-color: #e8dbc5;
+
+}
+
+a:hover{
+    font-size: 1.6rem;
+    font-weight: 500;
 
 }
