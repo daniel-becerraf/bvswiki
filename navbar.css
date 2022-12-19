@@ -18,7 +18,7 @@ nav{
 }
 
 a:hover{
-    font-size: 1.6rem;
     font-weight: 500;
+    background: linear-gradient(45deg, #e8dbc5, #333 95%);
 
 }
