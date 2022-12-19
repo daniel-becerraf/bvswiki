@@ -31,7 +31,7 @@ strong{
 
 }
 
-#xwikicontent:not(ul){
+#xwikicontent:not(ul, nav, .navbar){
     padding: 2.5rem 12rem 2.5rem 16rem;
     border: #fff;
     border-width: 1rem;
