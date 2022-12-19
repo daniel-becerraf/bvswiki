@@ -31,13 +31,13 @@ strong{
 
 }
 
-#xwikicontent{
-  padding: 2.5rem 12rem 2.5rem 16rem;
-  border: #fff;
-  border-width: 1rem;
-  border-radius: 2rem;
-  
-  
+#xwikicontent:not(nav){
+    padding: 2.5rem 12rem 2.5rem 16rem;
+    border: #fff;
+    border-width: 1rem;
+    border-radius: 2rem;
+    
+    
 }
 
 #document-title h1 {
