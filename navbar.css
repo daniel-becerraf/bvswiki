@@ -17,8 +17,10 @@ nav{
 
 }
 
-a:hover{
+.dropdown:hover{
     font-weight: 500;
-    background: linear-gradient(45deg, #e8dbc5, #333 95%);
+    background: linear-gradient(45deg, #ee6c4d, #1e2ede 98%);
+    border-radius: 2rem;
+    color: #fff;
 
 }
