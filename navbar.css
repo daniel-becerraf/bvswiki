@@ -16,7 +16,7 @@ nav, .navbar{
 
 }
 
-.navbar li:hover{
+.navbar li:hover, .navbar a:hover{
     border-radius: 1rem;
     color: #333;
     font-weight: 500;
