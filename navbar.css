@@ -31,9 +31,11 @@ nav, .navbar{
 li{
   margin-bottom: none;
   border-radius: 1rem;
+  text-align: center;
  
 }
 
 .navbar a{
     font-size: 1,4rem;
+  text-align: center;
 }
