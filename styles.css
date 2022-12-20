@@ -84,12 +84,12 @@ li{
 }
 
 table td strong{
-    background-color: #1e2edeAA;
-    font-size: 2rem;
+    font-size: 2.2rem;
 
 }
 
 table td {
     font-size: 1.6rem;
+    background-color: #1e2ede55;
 
 }
