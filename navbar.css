@@ -40,3 +40,8 @@ li{
     font-size: 1,4rem;
   text-align: center;
 }
+
+.dropdown-menu {
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}
