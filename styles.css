@@ -32,7 +32,7 @@ strong{
 }
 
 #xwikicontent:not(ul, nav, .navbar){
-    padding: 2.5rem 12rem 2.5rem 16rem;
+    padding: 4rem 24rem 4rem 32rem;
     border: #fff;
     border-width: 1rem;
     border-radius: 2rem;
