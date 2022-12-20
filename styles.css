@@ -22,7 +22,7 @@ strong{
 .main{
   border: #fff;
   border-radius: 2rem;
-  color: #fff;
+  color: #dbdbdb;
   background-image: url(https://goindons.sirv.com/Images/Gradient%20BVS.jpg);
   background-position: center;
   background-size: cover;
@@ -33,7 +33,7 @@ strong{
 }
 
 #xwikicontent:not(ul, nav, .navbar){
-    padding: 4rem 24rem 4rem 32rem;
+    padding: 4rem 32rem 4rem 32rem;
     border: #fff;
     border-width: 1rem;
     border-radius: 2rem;
@@ -47,6 +47,7 @@ strong{
 
 h1{
   font-weight: bold;
+  color: #e0e0e0
   
 }
 
@@ -80,4 +81,15 @@ h1{
 li{
   margin-bottom: 0.7rem;
   
+}
+
+table td strong{
+    background-color: #1e2edeAA;
+    font-size: 2rem;
+
+}
+
+table td {
+    font-size: 1.6rem;
+
 }
