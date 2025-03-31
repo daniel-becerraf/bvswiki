@@ -5,7 +5,7 @@ html {
   padding: 0;
   font-size: 62.5%;
   transition: 0.5s all; 
-  font-family: "Clash Display", sans-serif; 
+  font-family: "Amazon Ember", sans-serif; 
  
 }
 
@@ -24,7 +24,6 @@ nav, .navbar{
     border-radius: 1rem;
     color: #333;
     font-weight: 500;
-    background: linear-gradient(45deg, #ee6c4d55, #1e2ede55 98%);
   
 }
 
